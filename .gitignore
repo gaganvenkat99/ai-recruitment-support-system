@@ -1,3 +1,6 @@
+dataset/data/
+dataset/resume/
+
 venv/
 venv_clean/
 
@@ -11,12 +14,4 @@ vector_db/
 
 logs/
 
-.env
-
-.idea/
-.vscode/
-
 outputs/
-
-*.sqlite3
-dataset/data/
