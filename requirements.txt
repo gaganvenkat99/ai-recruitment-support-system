@@ -1,0 +1,16 @@
+fastapi
+uvicorn
+pandas
+numpy
+sentence-transformers
+chromadb
+transformers
+streamlit
+requests
+Pillow
+pdfplumber
+spacy
+sqlalchemy
+python-multipart
+openai
+python-dotenv
