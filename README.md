@@ -15,6 +15,29 @@ The system helps recruiters efficiently identify suitable candidates by analyzin
 
 
 \---
+
+## Project Highlights
+
+✔ AI-powered Recruitment Support System
+
+✔ Semantic Candidate Search using Vector Embeddings
+
+✔ Resume Parsing and Information Extraction
+
+✔ Candidate Ranking and Scoring Mechanism
+
+✔ ChromaDB-based Vector Storage and Retrieval
+
+✔ Retrieval-Augmented Generation (RAG) Pipeline
+
+✔ Large Language Model (LLM) Integration
+
+✔ Interactive Dashboard and Candidate Search Interface
+
+✔ FastAPI Backend and Streamlit Frontend
+
+✔ Intelligent Recruitment Insights and Recommendations
+
 ## Project Screenshots
 
 ### System Architecture
@@ -93,77 +116,34 @@ The system follows a Retrieval-Augmented Generation (RAG) architecture:
 
 
 
-\## Technologies Used
+## Tech Stack
 
+### Programming Language
+- Python 3.11
 
+### Backend
+- FastAPI
+- Uvicorn
 
-\### Programming Language
+### Frontend
+- Streamlit
 
+### Database
+- SQLite
 
+### Vector Database
+- ChromaDB
 
-\* Python 3.11
+### AI / NLP
+- Sentence Transformers
+- Transformers
+- Large Language Models (LLMs)
+- Retrieval-Augmented Generation (RAG)
 
-
-
-\### Backend
-
-
-
-\* FastAPI
-
-\* Uvicorn
-
-
-
-\### Frontend
-
-
-
-\* Streamlit
-
-
-
-\### Database
-
-
-
-\* SQLite
-
-
-
-\### Vector Database
-
-
-
-\* ChromaDB
-
-
-
-\### AI / NLP Libraries
-
-
-
-\* Sentence Transformers
-
-\* Transformers
-
-\* OpenAI / Ollama (Optional)
-
-
-
-\### Data Processing
-
-
-
-\* Pandas
-
-\* NumPy
-
-\* pdfplumber
-
-
-
-\---
+### Data Processing
+- Pandas
+- NumPy
+- pdfplumber
 
 
 
