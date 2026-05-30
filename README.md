@@ -15,6 +15,19 @@ The system helps recruiters efficiently identify suitable candidates by analyzin
 
 
 \---
+## Project Screenshots
+
+### System Architecture
+
+![System Architecture](screenshots/system_architecture.png)
+
+### Candidate Search Interface
+
+![Candidate Search](screenshots/candidate_search.png)
+
+### Dashboard
+
+![Dashboard](screenshots/dashboard.png)
 
 
 
